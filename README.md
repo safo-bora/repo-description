@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Playwright, ML, AI and many other things**
 
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/playlist?list=PLShk3xZ-mTVGcJtnatn-fjld2N6qQGGss](https://www.youtube.com/playlist?list=PLShk3xZ-mTVGcJtnatn-fjld2N6qQGGss)
+
 - 📝 I regularly write articles on [https://safo-bora-katerina.blogspot.com/](https://safo-bora-katerina.blogspot.com/)
 
 - 💬 Ask me about **automation testing and QA**
@@ -13,15 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Soil moisture sensor &lpar;hygrometer&rpar; and KISS](https://safo-bora-katerina.blogspot.com/2023/08/soil-moisture-sensor-hygrometer-and-kiss.html)
-- [Arduino UNO and Python](https://safo-bora-katerina.blogspot.com/2023/08/arduino-uno-and-python.html)
-- [Python MediaPipe &lpar;Hands&rpar;](https://safo-bora-katerina.blogspot.com/2023/08/mediapipe.html)
-- [Tell me what to do, and I will do it.](https://safo-bora-katerina.blogspot.com/2023/08/tell-me-what-to-do-and-i-will-do-it.html)
-- [How to Create and Deploy a Static Website in 5 Simple Steps from Scratch Using GitHub Pages &lpar;Free&rpar;](https://safo-bora-katerina.blogspot.com/2023/08/how-to-create-website-with-simple-5.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kateryna-romanchuk-76828441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kateryna-romanchuk-76828441" height="30" width="40" /></a>
 <a href="/https://safo-bora-katerina.blogspot.com/feeds/posts/default/?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://safo-bora-katerina.blogspot.com/feeds/posts/default/?alt=rss" height="30" width="40" /></a>
 </p>
 
