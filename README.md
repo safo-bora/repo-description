@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Playwright, ML, AI and many other things**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/playlist?list=PLShk3xZ-mTVGcJtnatn-fjld2N6qQGGss](https://www.youtube.com/playlist?list=PLShk3xZ-mTVGcJtnatn-fjld2N6qQGGss)
+- 👨‍💻 All of my projects are available at https://www.katerina-it.com/ and [https://www.youtube.com/playlist?list=PLShk3xZ-mTVGcJtnatn-fjld2N6qQGGss](https://www.youtube.com/playlist?list=PLShk3xZ-mTVGcJtnatn-fjld2N6qQGGss)
 
 - 📝 I regularly write articles on [https://safo-bora-katerina.blogspot.com/](https://safo-bora-katerina.blogspot.com/)
 
