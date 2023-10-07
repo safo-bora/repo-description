@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **automation testing and QA**
 
-- 📫 How to reach me **romanchuk.katerina@gmail.com**
-
-- ⚡ Fun fact **At the age of 7, I accidentally locked the television with the remote control. To unlock it, my dad had to drive it to another city for 5 hours. When they finally figured out the code for the television (it took 2 days to guess the password), it turned out to be my friend's phone number.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
