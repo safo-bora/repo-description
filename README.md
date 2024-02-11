@@ -12,11 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DataDog/Grafana and Metrics](https://safo-bora-katerina.blogspot.com/2024/02/datadoggrafana-and-metrics.html)
 - [Create video with AI — my first experience.](https://safo-bora-katerina.blogspot.com/2024/01/create-video-with-ai-my-first-experience.html)
 - [MediaPipe Journey: Exploring Pose &amp; Hand Landmark Detection](https://safo-bora-katerina.blogspot.com/2023/11/mediapipe-journey-exploring-pose-hand.html)
 - [Soil moisture sensor &lpar;hygrometer&rpar; and KISS](https://safo-bora-katerina.blogspot.com/2023/08/soil-moisture-sensor-hygrometer-and-kiss.html)
 - [Arduino UNO and Python](https://safo-bora-katerina.blogspot.com/2023/08/arduino-uno-and-python.html)
-- [Python MediaPipe &lpar;Hands&rpar;](https://safo-bora-katerina.blogspot.com/2023/08/mediapipe.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
