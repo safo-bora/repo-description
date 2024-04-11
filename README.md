@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katerina</h1>
+<h1 align="center">Hi 👋, I'm Kateryna</h1>
 <h3 align="center">A passionate SDET from Kyiv (Ukraine)</h3>
 
 - 🌱 I’m currently learning **Playwright, ML, AI and many other things**
